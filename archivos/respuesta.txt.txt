@@ -1,1 +1,1 @@
-Al momento de estar vacía la carpeta no permitía realizar la respectiva subida.
+Al momento de estar vacía la carpeta no permitía realizar la respectiva subida (Commit).
