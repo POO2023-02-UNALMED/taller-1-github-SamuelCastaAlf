@@ -1,0 +1,1 @@
+Se presentó un problema en el paso # 8, gracias a estar vacía la carpeta. Esto no permitía realizar el respectivo commit.
