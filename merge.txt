@@ -1,3 +1,4 @@
 Samuel Castaño Alfonso.
 21 años.
 Aspiro a cumplir efectivamente con lo necesario para superar la asignatura, aprendiendo lo necesario para optimizar mi carrera como Ingeniero en Sistemas y lograr ser una persona suficiente en el mundo laboral.
+"Ahora se puede crear el commit debido a que la carpeta no se encuentra vacía al poseer el respuesta.txt."
