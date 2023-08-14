@@ -2,3 +2,4 @@ Samuel Castaño Alfonso.
 21 años.
 Aspiro a cumplir efectivamente con lo necesario para superar la asignatura, aprendiendo lo necesario para optimizar mi carrera como Ingeniero en Sistemas y lograr ser una persona suficiente en el mundo laboral.
 "Ahora se puede crear el commit debido a que la carpeta no se encuentra vacía al poseer el respuesta.txt."
+Es importante tener cuidado con modificar dos archivos a la vez debido a que es fácil confundirse y generar errores, por ejemeplo en este caso, se crearon dos archivos llamados de igual manera lo que generaba un conflicto.
